@@ -36,3 +36,6 @@ Container starten
 
     docker run -d --name miniprojekt-container -p 8080:80 miniprojekt
 Nun läuft die Webseite und kann über localhost angeschaut werden.
+
+**Screenshots**\
+![screenshot of all commands](console.png "screenshot of all commands")
