@@ -8,8 +8,8 @@
 
 
 # Info
-Autoren: Larissa Skala, Deen Altherr
-Erstelldatum: 23.03.2023
+Autoren: Larissa Skala, Deen Altherr\
+Erstelldatum: 23.03.2023\
 Datum: 23.03.2023
 
 # Aufgabenstellung
