@@ -10,7 +10,7 @@
 # Info
 Autoren: Larissa Skala, Deen Altherr\
 Erstelldatum: 23.03.2023\
-Datum: 23.03.2023
+Zuletzt geändert: 23.03.2023
 
 # Aufgabenstellung
 Erstellen Sie ein eigenes Webserver-Image auf Basis eines geeigneten Images (z.B. node.js express, apache, nginx, php, ..) und lassen Sie darin eine einfache (statische) Webseite laufen (Sie können zum Beispiel die Webseite aus Modul 293 verwenden). Die Webseite soll Bestandteil des Images sein und auf dem Host im Browser unter Port 8080 erreichbar sein. Starten Sie den Container am Ende so, dass sich die Dateien zur Webseite (HTML, CSS, etc.) und die Logdateien in lokalen Verzeichnissen befinden, damit die Webseite von dort aus weiterentwickelt werden kann. Dokumentieren Sie Ihr Mini-Projekt auf Github/Gitlab sinnvoll (inkl. Dockerfile) und geben Sie die URL dazu der Lehrperson ab.
